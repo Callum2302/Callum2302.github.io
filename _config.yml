@@ -9,7 +9,7 @@ name: Callum Halpin
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:url("pinkpanther.jpg")
+avatar:("pinkpanther.jpg")
 
 #
 # Flags below are optional
