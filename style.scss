@@ -20,7 +20,17 @@ html {
 body 
 {
     background-color: lightblue;
+h1 {
+    background-color: green;
+}
 
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: yellow;
+}
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
