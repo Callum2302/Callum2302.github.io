@@ -17,9 +17,8 @@ html {
   font-size: 100%;
 }
 
-body {
-  background-color: #ff00d0;
-}
+body 
+{
  
 h1 {
     background-color: white;
@@ -30,7 +29,8 @@ div {
 }
 
 p {
-  background-color: grey;
+    background-color: grey;
+}
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -40,7 +40,6 @@ p {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: #ff00d0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -165,7 +164,6 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background-color: #ff00d0;
 }
 
 .masthead {
@@ -216,7 +214,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #000000;
+  color: $gray;
   font-size: 16px;
 
   @include mobile {
